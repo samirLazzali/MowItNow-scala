@@ -1,6 +1,6 @@
 
 
-class Lawn(private val n: Int, private val m: Int, private val instructions: List[(Mower, String)], val display: Boolean = true) {
+class Lawn(private val n: Int, private val m: Int, private val instructions: List[(Mower, String)], val display: Boolean = false) {
 
 
   // Comme il faut verifier que les déplacements sont bien dans le rectangle (qui ne dépend pas de la tondeuse)
