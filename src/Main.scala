@@ -24,6 +24,6 @@ object Main extends App {
   bufferedSource.close
 
   println("\nInstructions : " + instructions+"\n")
-  val lawn = new Lawn(xTopRight, yTopRight, instructions, false)
+  val lawn = new Lawn(xTopRight, yTopRight, instructions, true)
   lawn.playInstructions()
 }
