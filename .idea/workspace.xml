@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0b58713-ec11-40cb-abcc-f7d4dfdbebd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MowItNow/Lawn$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MowItNow/Lawn$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MowItNow/Lawn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MowItNow/Lawn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MowItNow/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MowItNow/Main$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MowItNow/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MowItNow/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MowItNow/Mower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MowItNow/Mower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MowItNow/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MowItNow/instructions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lawn.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lawn.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mower.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mower.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/instructions.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f0b58713-ec11-40cb-abcc-f7d4dfdbebd7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +66,7 @@
       <workItem from="1574432718696" duration="19916000" />
       <workItem from="1574929913782" duration="227000" />
       <workItem from="1575213732186" duration="3491000" />
-      <workItem from="1575231670830" duration="600000" />
+      <workItem from="1575231670830" duration="648000" />
     </task>
     <servers />
   </component>
